@@ -42,13 +42,11 @@
 
 `OD105`: 坚果 Pro (128GB)
 
-**坚果 Pro 2 (`osborn`):**
-
-`OS105`: 坚果 Pro 2
-
-**坚果 Pro 2 (`oxford`):**
+**坚果 Pro 2 (`osborn`&`oxford`):**
 
 `OS103`: 坚果 Pro 2 特别版
+
+`OS105`: 坚果 Pro 2
 
 **坚果 3 (`oscar`):**
 
